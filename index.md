@@ -54,11 +54,11 @@ tagline:
 
     Hi,<br><br> 
     
-    I'm a Postdoctoral Fellow in the Department of Applied Mathematics at the University of Waterloo, working with Prof. Hans De Sterck, and Dr. Robert Falgout (LLNL).<br>
+    I'm a Postdoctoral Fellow in the Department of Applied Mathematics at the University of Waterloo, working with Prof. Hans De Sterck, and Dr. Robert Falgout (LLNL).<br><br>
 
-    I obtained my PhD in 2021 from Monash University in the area of parallel-in-time methods for hyperbolic PDEs. I have broad interests in the area of scientific computing including parallel-in-time methods, multigrid methods, numerical analysis, time integration methods, and PDE discretizations.<br>
+    I obtained my <a href="https://bridges.monash.edu/articles/thesis/Multilevel_parallel-in-time_methods_for_advection-dominated_PDEs/17108537">PhD</a> in 2021 from Monash University in the area of parallel-in-time methods for hyperbolic PDEs. I have broad interests in the area of scientific computing including parallel-in-time methods, multigrid methods, numerical analysis, time integration methods, and PDE discretizations.<br><br>
 
-    For a full list of publications, see my [Google Scholar](https://scholar.google.com.au/citations?user=6wiIrKMAAAAJ&hl=en).<br>
+    For a full list of publications, see my <a href="https://scholar.google.com.au/citations?user=6wiIrKMAAAAJ&hl=en">Google Scholar</a>.<br><br>
 
     <!-- the below is commented out for the moment. 
     For more information, see:<br>
