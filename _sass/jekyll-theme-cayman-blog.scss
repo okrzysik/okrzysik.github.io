@@ -126,7 +126,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-image:   url('../../background.png');
-  background-size: 100% 100%;
+  background-size: auto auto;
 
 
   @include large {
