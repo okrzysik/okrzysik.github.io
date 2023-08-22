@@ -49,9 +49,8 @@ tagline:
 
 <div class="row">
   <div class="column left">
-    <b>Oliver Krzysik</b> <br>
-    <br>
-
+    <!--<b>Oliver Krzysik</b> <br>
+    <br>-->
     Hi,<br><br> 
     
     I'm a Postdoctoral Fellow in the Department of Applied Mathematics at the University of Waterloo, working with Prof. Hans De Sterck, and Dr. Robert Falgout (LLNL).<br><br>
