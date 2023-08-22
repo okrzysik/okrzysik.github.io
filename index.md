@@ -49,18 +49,24 @@ tagline:
 
 <div class="row">
   <div class="column left">
-    <b>Dr Oliver Krzysik</b> <br>
+    <b>Oliver Krzysik</b> <br>
     <br>
 
-    Postdoc at the University of Waterloo.<br>
+    Hi,<br><br> 
+    
+    I'm a Postdoctoral Fellow in the Department of Applied Mathematics at the University of Waterloo, working with Prof. Hans De Sterck, and Dr. Robert Falgout (LLNL).<br>
 
-    Completed a PhD at Monash University and a BSc (Honours) at the University of Tasmania. <br><br>
+    I obtained my PhD in 2021 from Monash University in the area of parallel-in-time methods for hyperbolic PDEs. I have broad interests in the area of scientific computing including parallel-in-time methods, multigrid methods, numerical analysis, time integration methods, and PDE discretizations.<br>
 
+    For a full list of publications, see my [Google Scholar](https://scholar.google.com.au/citations?user=6wiIrKMAAAAJ&hl=en).<br>
+
+    <!-- the below is commented out for the moment. 
     For more information, see:<br>
     - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
     - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br><br>
+    -->
 
-    Contact me: okrzysik (at) uwaterloo (dot) ca
+    Contact: okrzysik (at) uwaterloo (dot) ca
         <br>
 
       </div>
