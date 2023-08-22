@@ -56,19 +56,20 @@ tagline:
 
     Completed a PhD at Monash University and a BSc (Honours) at the University of Tasmania. <br><br>
 
+    For more information, see:<br>
+    - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
+    - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br><br>
 
     Contact me: okrzysik (at) uwaterloo (dot) ca
         <br>
 
       </div>
       <div class="column right">
-        <p><img src='../../HeadShot.jpg' border="0" width="250" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
+        <p><img src='../../HeadShot.jpg' border="0" width="300" style="padding:0px; display: block; line-height: 0px; font-size: 0px; border:0px;" align="top">
 
         <br>
 
-        For more information, see:<br>
-        - <a href="{{ '/cv.html' | absolute_url }}">CV</a><br>
-        - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br>
+
 
     </p>
       </div>
