@@ -53,7 +53,7 @@ tagline:
     <br>-->
     Hi,<br><br> 
     
-    I'm a Postdoctoral Fellow in the Department of Applied Mathematics at the University of Waterloo, working with Prof. Hans De Sterck, and Dr. Robert Falgout (LLNL).<br><br>
+    I'm a Postdoctoral researcher in computational mathematics at the Los Alamos National Laboratory, working with Dr. Ben Southworth. Previously, I was a Postdoctoral Fellow at the University of Waterloo, working with Prof. Hans De Sterck, and Dr. Robert Falgout (LLNL).<br><br>
 
     I obtained my <a href="https://bridges.monash.edu/articles/thesis/Multilevel_parallel-in-time_methods_for_advection-dominated_PDEs/17108537">PhD</a> in 2021 from Monash University in the area of parallel-in-time methods for hyperbolic PDEs. I have broad interests in the area of scientific computing including parallel-in-time methods, multigrid methods, numerical analysis, time integration methods, and PDE discretizations.<br><br>
 
@@ -65,7 +65,7 @@ tagline:
     - <a href="{{ '/publications.html' | absolute_url }}">List of publications</a><br><br>
     -->
 
-    Contact: okrzysik (at) uwaterloo (dot) ca
+    Contact: okrzysik (at) lanl (dot) gov
         <br>
 
       </div>
